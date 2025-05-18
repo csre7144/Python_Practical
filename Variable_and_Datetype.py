@@ -17,11 +17,13 @@ print(a/b) #Mu
 
 
 # Rule Variable
-# @chintz = 56 #Invaild due to @ symbol 
-# @chintz #Invaild due to @ symbol 
 
 aaa = 4545
 print(aaa)
 
 _aaa = 45454
 print(_aaa)
+
+
+# @chintz = 56 #Invaild due to @ symbol 
+# @chintz #Invaild due to @ symbol 
