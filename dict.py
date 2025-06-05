@@ -44,4 +44,4 @@ s5 = {1,5,8,9}
 s6 = {3,5,9,1} 
 print(s5.intersection(s6)) #output: {9, 5, 1}
 
-print(s5-s6) #output: {8}
+print(s5-s6) #output: {9, 5, 1}
