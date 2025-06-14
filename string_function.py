@@ -44,3 +44,6 @@ print(" ".join(words))  # Output: Hello World
 s2 = "abc123"
 print(s2.isalnum())  # Output: True
 
+# Reverese String
+word = "Hello, world" [::-1]
+print(word)
